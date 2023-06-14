@@ -7,9 +7,9 @@
 const pedro = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "C#", "Swift", "Elixir"],
-    techs: ["ReactJS", "NextJS", ".net core", "React Native", "Qiskit"],
+    techs: ["React Native", "ReactJS", "NextJS", ".net core",  "Qiskit"],
     askMeAbout: ["Gaming"],
-    currentFocus: ".net core",
+    currentFocus: ["react native", ".net core"],
 };
 ```
 <br>
