@@ -1,5 +1,5 @@
 ## Pedro Maia Frigo
-![Visitor Count](https://profile-counter.glitch.me/pedriin1/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/frigopedro/count.svg)
 ### <img src="https://c.tenor.com/je1m2j-G9UUAAAAC/hello-minion.gif" width="50"> A little more about me...  
 <br>
 
